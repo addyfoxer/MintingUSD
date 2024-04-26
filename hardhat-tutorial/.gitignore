@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+Crypto Devs Token Contract Address: 0x7Ca60F1d0529463Eb92cAc32c539C1C92023cf60
